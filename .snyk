@@ -8,3 +8,30 @@ patch:
         patched: '2018-07-01T07:36:54.916Z'
     - sails > @sailshq/express > @sailshq/connect > serve-static > send > mime:
         patched: '2018-07-01T07:36:54.916Z'
+  'npm:lodash:20180130':
+    - sails > machinepack-process > machinepack-json > machine > lodash:
+        patched: '2018-07-08T07:58:45.491Z'
+    - sails-disk > waterline-criteria > lodash:
+        patched: '2018-07-08T07:58:45.491Z'
+    - sails > machinepack-redis > machine > include-all > lodash:
+        patched: '2018-07-08T07:58:45.491Z'
+    - sails > machinepack-redis > machine > rttc > lodash:
+        patched: '2018-07-08T07:58:45.491Z'
+    - sails > machinepack-redis > machine > switchback > lodash:
+        patched: '2018-07-08T07:58:45.491Z'
+    - sails > machinepack-process > machine > lodash:
+        patched: '2018-07-08T07:58:45.491Z'
+    - sails-disk > waterline-cursor > lodash:
+        patched: '2018-07-08T07:58:45.491Z'
+    - sails > sort-route-addresses > lodash:
+        patched: '2018-07-08T07:58:45.491Z'
+    - sails > sails-generate > lodash:
+        patched: '2018-07-08T07:58:45.491Z'
+    - sails > sails-generate > machinepack-process > machine > lodash:
+        patched: '2018-07-08T07:58:45.491Z'
+    - sails > sails-generate > machinepack-process > machinepack-json > machine > lodash:
+        patched: '2018-07-08T07:58:45.491Z'
+    - sails > sails-generate > reportback > switchback > lodash:
+        patched: '2018-07-08T07:58:45.491Z'
+    - sails > skipper > lodash:
+        patched: '2018-07-08T07:58:45.491Z'
