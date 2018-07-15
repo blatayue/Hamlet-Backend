@@ -35,3 +35,19 @@ patch:
         patched: '2018-07-08T07:58:45.491Z'
     - sails > skipper > lodash:
         patched: '2018-07-08T07:58:45.491Z'
+    - sails-disk > machinepack-fs > machine > lodash:
+        patched: '2018-07-15T07:37:04.418Z'
+    - sails-disk > machinepack-fs > machinepack-json > machine > lodash:
+        patched: '2018-07-15T07:37:04.418Z'
+    - sails-disk > machinepack-fs > machinepack-strings > lodash:
+        patched: '2018-07-15T07:37:04.418Z'
+    - sails-disk > machinepack-fs > machinepack-strings > machine > lodash:
+        patched: '2018-07-15T07:37:04.418Z'
+    - sails-disk > machinepack-fs > machinepack-strings > browserify-transform-machinepack > lodash:
+        patched: '2018-07-15T07:37:04.418Z'
+    - sails-disk > machinepack-fs > machinepack-util > lodash:
+        patched: '2018-07-15T07:37:04.418Z'
+    - sails-disk > machinepack-fs > machinepack-util > machine > lodash:
+        patched: '2018-07-15T07:37:04.418Z'
+    - sails-disk > machinepack-fs > machinepack-util > browserify-transform-machinepack > lodash:
+        patched: '2018-07-15T07:37:04.418Z'
