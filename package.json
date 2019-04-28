@@ -21,7 +21,7 @@
     "include-all": "^3.0.0",
     "rc": "1.0.1",
     "sails": "~1.0.0",
-    "sails-disk": "~1.0.0",
+    "sails-disk": "~1.1.2",
     "snyk": "^1.88.2"
   },
   "scripts": {
