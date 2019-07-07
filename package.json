@@ -22,13 +22,14 @@
     "rc": "1.0.1",
     "sails": "~1.0.0",
     "sails-disk": "~1.0.0",
-    "snyk": "^1.88.2"
+    "snyk": "^1.192.3"
   },
   "scripts": {
     "debug": "node debug app.js",
     "start": "node app.js",
     "snyk-protect": "snyk protect",
-    "prepare": "npm run snyk-protect"
+    "prepare": "npm run snyk-protect",
+    "prepublish": "npm run snyk-protect"
   },
   "main": "app.js",
   "repository": {
